@@ -1,0 +1,1 @@
+const MAP_TEMPLATE_URL = 'https://api.mapbox.com/styles/v1/markintoshz/ckl30po1w1ytq17rxv3bpgn44/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoibWFya2ludG9zaHoiLCJhIjoiY2tldWhuNXlsMDJmeTJycDVwMmN0dGQweSJ9._C1dShs1F6IQSzb0ME_xzw';

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="1"/>
+<vectornator:setting key="SnapToPoints" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path d="M0+0L1024+0L1024+1024L0+1024L0+0Z" opacity="1" fill="#ffffff"/>
+<path stroke="#ffffff" stroke-width="0.1" d="M305.469+312.37C305.469+202.146+393.905+112.793+502.997+112.793C612.089+112.793+700.525+202.146+700.525+312.37C700.525+422.593+612.089+511.947+502.997+511.947C393.905+511.947+305.469+422.593+305.469+312.37Z" fill="#ff2626" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#ffffff" stroke-width="0.1" d="M62.8332+1023.39C62.8332+776.509+260.915+576.373+505.261+576.373C749.608+576.373+947.689+776.509+947.689+1023.39C947.689+1270.27+749.608+1470.41+505.261+1470.41C260.915+1470.41+62.8332+1270.27+62.8332+1023.39Z" fill="#ff2626" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="10.53" d="M0+512C0+229.23+229.23+0+512+0C794.77+0+1024+229.23+1024+512C1024+794.77+794.77+1024+512+1024C229.23+1024+0+794.77+0+512Z" fill="#ffffff" stroke-linecap="round" fill-opacity="0" opacity="0" stroke-linejoin="round"/>
+</g>
+</svg>
