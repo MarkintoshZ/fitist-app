@@ -4,6 +4,8 @@ A cross-platform mobile app for finding fitness buddies.
 
 ## Demo
 
+https://github.com/MarkintoshZ/fitist-app/assets/46978338/57ba1221-4051-47aa-a030-fb39774a518d
+
 ## Tech Stack
 
 ### Frontend
